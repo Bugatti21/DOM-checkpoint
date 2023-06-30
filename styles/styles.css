@@ -1,0 +1,9 @@
+/* Style the heart-shaped button */
+.btn-like {
+    color: gray;
+  }
+  
+  .btn-like.active {
+    color: red;
+  }
+
